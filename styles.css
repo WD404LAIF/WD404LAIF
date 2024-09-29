@@ -44,7 +44,7 @@ header {
 }
 
 .card {
-    background-color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.6);
     border: 1px solid #ccc;
     border-radius: 8px;
     padding: 15px;
@@ -88,7 +88,7 @@ footer {
     color: white;
     text-align: center;
     padding: 10px 0;
-    position: absolute;
+    position: sticky;
     bottom: 0;
     width: 100%;
 }
